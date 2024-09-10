@@ -1,0 +1,3 @@
+# Ordner ignorieren
+node_modules/
+.vscode/

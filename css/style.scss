@@ -1,0 +1,45 @@
+@import "./var";
+
+@import "../node_modules/bootstrap/scss/_functions";
+@import "../node_modules/bootstrap/scss/_variables";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "./default";
+
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background: rgb(245, 165, 54);
+  background: radial-gradient(circle, rgba(245, 165, 54, 1) 0%, rgba(213, 88, 35, 1) 51%);
+
+  .card_quiz {
+    width: 30rem;
+    border: unset;
+
+    .progress {
+      border: unset;
+      border-radius: unset;
+    }
+  }
+
+  .list-group {
+    .list-group-item {
+      border: 2px solid rgb(245, 165, 54);
+
+      &:hover {
+        cursor: pointer;
+        background-color: aliceblue;
+      }
+    }
+  }
+}
+
+.bg-success,
+.bg-danger {
+  color: white;
+  border: unset;
+}
