@@ -14,13 +14,10 @@ Welcome to my ninth project as part of the Developer Academy! This time, I’ve 
 
 ## 🛠️ Built with
 
-
 - HTML
 - CSS / SCSS
 - JS
 - Bootstrap
-
-
 
 ## ⚙️ How to Use
 
