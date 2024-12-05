@@ -7,10 +7,6 @@
 
 Welcome to my ninth project as part of the Developer Academy! This time, I’ve developed a Quiz App where you can test your knowledge in HTML, CSS, JavaScript, and Angular. The app offers a fun and interactive way to enhance your programming skills. Challenge yourself, learn in a playful manner, and become a coding expert!
 
-## 🔗 Links
-
-- [Live Site URL](https://zippy-yeot-e510eb.netlify.app/)
-
 
 ## 🛠️ Built with
 
